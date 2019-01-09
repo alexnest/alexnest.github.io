@@ -14,7 +14,7 @@ Hey，我是陈宇佳，病毒种，进化程度不明，多出没于[博客](ht
 * 后端框架    ：springmvc springboot structs2 mybatis hibernate
 ## 感兴趣的领域如下：
 * 线性代码
-* 统计与概率
+* 统计与概论
 * 网络神经
 * 深度学习
 
