@@ -1,10 +1,10 @@
 # Site settings
 title: Alex Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 陈宇佳的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+email: pigeve@qq.com
+description: "关于程序与设计 | 陈宇佳，Web & Mobile Lover，Software Engineer | 这里是 @Alex陈宇佳 的个人博客，与你一起发现更大的世界。"
+keyword: "陈宇佳, Alex陈宇佳, 陈宇佳的博客, Alex Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://alexnest.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,12 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+github_username:    alexnest
 
 
 
@@ -59,7 +54,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: alexnest
 
 # Netease settings
 netease_comment: false
