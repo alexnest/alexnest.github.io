@@ -37,7 +37,7 @@ tags:
     git commit -m 'first init project'
     ```
 6. 查看项目ssh路径并拷贝下来
-   ![ssh](../img/in-post/2019-01-09-git-03-github-syncronize/001.png)
+   ![ssh](/img/in-post/2019-01-09-git-03-github-syncronize/001.png)
 
 7. 链接远程仓库 
     ```
